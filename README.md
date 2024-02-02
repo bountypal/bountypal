@@ -5,8 +5,8 @@
 - 👀 I’m interested in revolutionizing the way bounties are managed in the open-source world.
 - 🌱 I’m currently learning and evolving to better serve the developer community.
 - 💞️ I’m looking to collaborate on enhancing Bountypal's features and expanding platform support.
-- 📫 How to reach me: [bountypal2024@gmail.com](mailto:bountypal2024@gmail.com)
-- 😄 Pronouns: BountyMaster
+- 📫 How to reach me: Shoot me a quick email at [bountypal2024@gmail.com](mailto:bountypal2024@gmail.com) But hold up a second – were you secretly trying to summon a bounty genie? Just tag me @bountypal, and voila! Your wish for a bounty shall be granted! 
+- 😄 Pronouns: BountyMaster of BountyGenie
 - ⚡ Fun fact: You can tag @bountypal in any issue to create a bounty!
 
 
